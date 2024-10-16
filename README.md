@@ -47,10 +47,6 @@
       <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
     </td>
   </tr>
   
@@ -91,8 +87,6 @@
       <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
     </td>
   </tr>
 </table>
