@@ -112,3 +112,8 @@
 </div>
 
 ###
+
+<be>
+
+
+[![An image of @masirjafri1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/masirjafri1)](https://holopin.io/@masirjafri1)
