@@ -64,6 +64,8 @@
       <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=ejs" height="40" alt="ejs logo" />
     </td>
   </tr>
   
@@ -76,6 +78,7 @@
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
       <img width="12" />
+      <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
     </td>
   </tr>
   
@@ -91,7 +94,21 @@
       <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <h5 align="left">BACKEND TECHNOLOGIES:</h5>
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" alt="mongoose logo" />
+    </td>
+  </tr>
 </table>
+
 
 <h2 align="center">CONNECT WITH ME</h2>
 
