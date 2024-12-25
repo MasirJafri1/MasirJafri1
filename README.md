@@ -52,7 +52,7 @@
     </td>
   </tr>
   
-  <tr>
+   <tr>
     <td>
       <h5 align="left">FRONTEND DEVELOPMENT:</h5>
     </td>
@@ -65,8 +65,6 @@
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=ejs" height="40" alt="ejs logo" />
-    </td>
   </tr>
   
   <tr>
