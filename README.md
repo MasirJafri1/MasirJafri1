@@ -42,67 +42,64 @@
 
 <table align="center">
   <tr>
+    <td><h5>🧠 Core Languages:</h5></td>
     <td>
-      <h5 align="left">PROGRAMMING LANGUAGES:</h5>
-    </td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
-    </td>
-  </tr>
-  
-   <tr>
-    <td>
-      <h5 align="left">FRONTEND DEVELOPMENT:</h5>
-    </td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+      <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+      <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-      <img width="12" />
-  </tr>
-  
-  <tr>
-    <td>
-      <h5 align="left">FRAMEWORKS:</h5>
-    </td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-      <img width="12" />
-      <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+      <img src="https://skillicons.dev/icons?i=sql" height="40" alt="SQL" />
     </td>
   </tr>
   
   <tr>
+    <td><h5>🖥️ Web & App Development:</h5></td>
     <td>
-      <h5 align="left">TOOLS:</h5>
-    </td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
     </td>
   </tr>
-
+  
   <tr>
+    <td><h5>🧩 Backend & Database:</h5></td>
     <td>
-      <h5 align="left">BACKEND TECHNOLOGIES:</h5>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" alt="Mongoose" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
     </td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  </tr>
+  
+  <tr>
+    <td><h5>🛠️ Dev Tools & Workflow:</h5></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" alt="mongoose logo" />
+      <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
     </td>
   </tr>
 </table>
